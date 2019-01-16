@@ -1,8 +1,1 @@
-HTTP/1.1 200 OK
-Author:SunKun
-Last-Modified: 2019-1-6 23:08:01
-Accept-Ranges: bytes
-Content-Length: 16
-Connection: close
-Content-Type: text/plain
 Punch=1.0.0
